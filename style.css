@@ -14,8 +14,8 @@ header {
 main {
     background-color: aliceblue;
     color: black;
-}
-
-.artigo-autor{
+    max-width: 800px;}
+    margin: 0 auto;
     font-weight: Ana Julia;
 }
+.artigo-autor{
