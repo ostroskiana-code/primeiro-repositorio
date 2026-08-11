@@ -16,6 +16,11 @@ main {
     color: black;
     max-width: 800px;}
     margin: 0 auto;
-    font-weight: Ana Julia;
+   padding: 16px;
+   .artigo-autor{
+  font-weight: Ana Julia;
 }
-.artigo-autor{
+font-weight: bold;
+article {
+  display: flex;
+}
