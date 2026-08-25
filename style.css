@@ -1,26 +1,27 @@
 img {
- width: 300px;
+  width: 300px;
 }
 
 header {
-    background-color: rgb(90, 0, 173);
-    color: rgb(0, 0, 129);
-  text-align: center
-  max-aling 800px;
+  background-color: rgb(90, 0, 173);
+  color: rgb(0, 0, 129);
+  text-align: center max-aling 800px;
   margin: 0 autor;
-  padding: 16px; 
+  padding: 16px;
 }
-  
+
 main {
-    background-color: aliceblue;
-    color: black;
-    max-width: 800px;}
-    margin: 0 auto;
-   padding: 16px;
-   .artigo-autor{
-  font-weight: Ana Julia;
+  background-color: aliceblue;
+  color: black;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 16px;
 }
-font-weight: bold;
+
+.artigo-autor {
+  font-weight: bold;
+}
+
 article {
   display: flex;
 }
